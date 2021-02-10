@@ -1,3 +1,5 @@
+#this assumes gaussian distributed ideal data, with controllable center and spread- lmk if that's not what we want!
+
 import torch
 import math
 
